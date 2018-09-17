@@ -10,7 +10,7 @@
     <description
         value="test description "/>
     <requirements
-        value="A `Lab Norway` actor:                  * SHALL communicate with the server according to the [FHIR DSTU2 REST specification][fhir-rest].          * SHALL use either the XML or JSON resource formats for all interactions."
+        value="alt description"
     />
     <kind value="requirements"/>
     <fhirVersion value="1.0.1"/>
