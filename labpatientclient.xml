@@ -8,7 +8,11 @@
     <publisher value="HL7 Norway"/>
     <date value="2015-06-02"/>
     <description
+<<<<<<< HEAD
         value="test description diana"/>
+=======
+        value="test description paula"/>
+>>>>>>> 36c366e18b74f6345a6b5ef68391dfb23c6ee5e2
     <requirements
         value="alt description"
     />
