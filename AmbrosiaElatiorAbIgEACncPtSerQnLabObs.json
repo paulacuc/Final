@@ -26,7 +26,7 @@
       {
         "path": "Observation",
         "name": "hspc-stdqty",
-        "short": "Measurements and simple assertions",
+        "short": "Measurements and simple assertions false",
         "definition": "Measurements and simple assertions made about a patient, device or other subject.",
         "alias": [
           "Vital Signs",
