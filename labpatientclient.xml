@@ -8,7 +8,7 @@
     <publisher value="HL7 Norway"/>
     <date value="2015-06-02"/>
     <description
-        value="The `Lab Norway` actor queries lab data in the Norwegian context. `Lab Norway Clients` are expected to use this functionality to allow end users to search for lab results by patient, type of result, status or timeframe. "/>
+        value="test description "/>
     <requirements
         value="A `Lab Norway` actor:                  * SHALL communicate with the server according to the [FHIR DSTU2 REST specification][fhir-rest].          * SHALL use either the XML or JSON resource formats for all interactions."
     />
