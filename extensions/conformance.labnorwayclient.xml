@@ -10,7 +10,7 @@
   <description
     value="The 'Paula Cuc' actor posts, queries, and updates lab data in the Norwegian context. `Lab Norway Clients` are expected to use this functionality to allow end users to, post new lab results, search for posted lab results by patient, type of result, status or timeframe, and updates existing ones. "/>
   <requirements
-    value="A `Lab Norway` actor:                  * SHALL communicate with the server according to the [FHIR DSTU2 REST specification][fhir-rest].          * SHALL use either the XML or JSON resource formats for all interactions."
+    value="A `Lab Norway` actor:                  * SHALL communicate with the server according to the [ DSTU2 REST specification][fhir-rest].          * SHALL use either the XML or JSON resource formats for all interactions."
   />
   <kind value="requirements"/>
   <fhirVersion value="1.0.1"/>
